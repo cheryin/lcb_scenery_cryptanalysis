@@ -1,0 +1,11 @@
+---
+cipher: scenery
+endweight: 999
+sweight: 60
+rounds: 12
+wordsize: 64
+mode: 4
+fixedVariables:
+- X0: "0x0000808037170712"
+- X12: "0xC341377B080C0604"
+...
